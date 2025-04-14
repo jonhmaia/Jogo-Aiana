@@ -4,8 +4,7 @@ Descubra os encantos da floresta com esse mundo mágico inspirado nas lendas do 
 ![image](https://github.com/user-attachments/assets/032bbae1-25b2-472d-befc-ce9585790fe9)
 ![image](https://github.com/user-attachments/assets/8b7186ec-8b50-454f-9332-4525d14eefb3)
 ![image](https://github.com/user-attachments/assets/3fb61212-992c-4bb3-8c4f-63631933ef59)
-<iframe width="347" height="195" src="https://www.youtube.com/embed/-Gczy2lJ2cU" title="Aianá - A Revolta das Lendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Install instructions
+
 Para instalar o jogo, primeiro faça o download do arquivo compactado.
 
 Extraia o arquivo aianá-v1.2.0.zip
